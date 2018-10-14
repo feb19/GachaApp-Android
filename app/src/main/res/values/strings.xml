@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GachaApp-Android</string>
+    <string name="button_text">ガチャを引く</string>
+    <string name="result_text">...</string>
+</resources>
